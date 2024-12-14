@@ -1,4 +1,4 @@
-bucket_name = "my-aws-bucket-eu-central"
+bucket_name = "my-aws-bucket-eu-central1"
 name        = "environment"
 environment = "dev-1"
 
